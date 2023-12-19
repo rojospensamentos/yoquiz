@@ -1,0 +1,4 @@
+/venv/
+/.idea/
+gs_credentials.json
+.env
